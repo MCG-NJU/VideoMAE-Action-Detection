@@ -1,17 +1,16 @@
-# VideoMAE for Spatiotemporal Action Detection (NeurIPS 2022 Spotlight) [[Arxiv]](https://arxiv.org/abs/2203.12602)
+# VideoMAE for Action Detection (NeurIPS 2022 Spotlight) [[Arxiv]](https://arxiv.org/abs/2203.12602)
 
 ![VideoMAE Framework](figs/videomae.png)
 
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)<br>
-[![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/models?other=videomae)[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/sayakpaul/video-classification-ucf101-subset)[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huggingface/notebooks/blob/main/examples/video_classification.ipynb)<br>
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/videomae-masked-autoencoders-are-data-1/action-recognition-on-ava-v2-2)](https://paperswithcode.com/sota/action-recognition-on-ava-v2-2?p=videomae-masked-autoencoders-are-data-1)
 
 
 > [**VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training**](https://arxiv.org/abs/2203.12602)<br>
 > [Zhan Tong](https://github.com/yztongzhan), [Yibing Song](https://ybsong00.github.io/), [Jue Wang](https://juewang725.github.io/), [Limin Wang](http://wanglimin.github.io/)<br>Nanjing University, Tencent AI Lab
 
-This repo contains the supported code and scripts to reproduce spatiotemporal action detection results of [VideoMAE](https://arxiv.org/abs/2203.12602). The code of pre-training is available in [original repo](https://github.com/MCG-NJU/VideoMAE).
+This repo contains the supported code and scripts to reproduce action detection results of [VideoMAE](https://arxiv.org/abs/2203.12602). The code of pre-training is available in [original repo](https://github.com/MCG-NJU/VideoMAE).
 
 ## 📰 News
 
